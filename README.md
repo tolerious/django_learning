@@ -5,7 +5,7 @@ Django tutorial 学习
 ---------------------------
 * Windows  
 1.安装好Python，官网[下载](https://www.python.org/downloads/)  
-2.安装好python后，把python所在的路径`C:\Python27`和`C:\Python27\Scripts`添加到系统路径中，如图所示![Alt text](http://ww1.sinaimg.cn/mw690/a036a21agw1ekxzn8tjbxj20mq0c775x.jpg`)  
+2.安装好python后，把python所在的路径`C:\Python27`和`C:\Python27\Scripts`添加到系统路径中，如图所示![Alt text](https://raw.githubusercontent.com/tolerious/django/master/resource/system_path.jpg)  
 3.安装pip，[这里]写了比较详细的教程，不再赘述  
 4.安装Django，很简单`pip install django`就可以了  
 
