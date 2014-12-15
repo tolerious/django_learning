@@ -1,4 +1,4 @@
-Django tutorial 学习+翻译计划
+Django tutorial 学习
 ===========================
 
 安装Django  
