@@ -1,4 +1,4 @@
-Django tutorial 学习
+Django tutorial 学习,这是Django1.7的版本,Django1.8的版本参见[Gitcafe](https://gitcafe.com/tolerious/django-learning)
 ===========================
 
 安装Django  
