@@ -1,7 +1,11 @@
-Django tutorial 学习,这是Django1.7的版本,Django1.8的版本参见[Gitcafe](https://gitcafe.com/tolerious/django-learning)
+Django tutorial 学习
 ===========================
 
-安装Django  
+版本
+---------------------------
+master 分支上是django1.7的版本,django1.8在分支django1.8上
+
+安装Django
 ---------------------------
 * Windows  
 1.安装好Python，官网[下载](https://www.python.org/downloads/)  
