@@ -2,3 +2,7 @@
 .idea/
 .idea/*.xml
 env
+mysite/*.pyc
+mysite/polls/*.pyc
+mysite/polls/migrations
+mysite/db.sqlite3
