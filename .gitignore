@@ -6,3 +6,4 @@ mysite/*.pyc
 mysite/polls/*.pyc
 mysite/polls/migrations
 mysite/db.sqlite3
+mysite/.coverage
